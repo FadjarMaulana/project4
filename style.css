@@ -43,3 +43,74 @@
     color:orange;
 }
 /* css dedy */
+
+
+
+/* css dedy */
+.jumbotron h1 {
+    color: white;
+    text-align: center;
+}
+
+.jumbotron p {
+    color: white;
+    text-align: center;
+
+}
+
+.container .card-deck #border1 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck h5 {
+    color: black;
+
+}
+
+.container .card-deck .card #Shin-Chan{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.container .card-deck #border2 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck .card #Nobita {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 19px;
+}
+
+.container .card-deck #border3 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck .card #Dora {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container .card-deck #border4 {
+    border-color: skyblue;
+    background: transparent;
+    height: 325px;
+}
+
+.container .card-deck .card #Mario {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
