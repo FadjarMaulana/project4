@@ -1,5 +1,45 @@
 /* css imam */
-
-
-
+#header{
+    background-image: url(../project4/img1/header.jpg);
+    height: 500px;
+    background-attachment:fixed;
+}
+.container{
+    color:#fff;
+}
+.row{
+    padding-right: 40px;
+}
+.nav-link{
+    color:#636060;
+}
+#teori{
+    margin-top: 80px;
+}
+#konten1{
+    background-color: #fff;
+    height: 300px;
+    margin-top:40px;
+}
+#garis{
+    border-right: 1px solid black;
+}
+#pertama{
+    margin-top: 80px;
+    margin-bottom:50px;
+}
+.col-md-4 .card{
+    border: none;
+    border-right: 1px solid #dddddd;
+    
+}
+#terakhir{
+    border-right: none;
+}
+.card{
+    line-height: 30px;
+}
+.active:hover{
+    color:orange;
+}
 /* css dedy */
